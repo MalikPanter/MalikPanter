@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MalikPanter
 - 👀 I’m interested in ... java, python.
 - 🌱 I’m currently learning ... java.
-- 💞️ I’m looking to collaborate on ...
+- ##💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... malik@bendtsminde.dk
 And am looking for Quick daffy.
 
